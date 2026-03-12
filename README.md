@@ -35,14 +35,13 @@ need for diversification.
 <img width="1105" height="504" alt="Screenshot (364)" src="https://github.com/user-attachments/assets/c452438a-f722-4312-8c15-15f32625b67f" />
 
 Top Vendors' Profit Margin (95% CI): (30.74%, 31.61%), Mean: 31.17%
+
 Low Vendors' Profit Margin (95% CI): (40.48%, 42.62%), Mean: 41.55%
-Low-performing vendors maintain higher margins but struggle with sales
-volumes, indicating potential pricing inefficiencies or market reach issues.
+
+Low-performing vendors maintain higher margins but struggle with sales volumes, indicating potential pricing inefficiencies or market reach issues.
 
 # Actionable Insights:
-Top-performing vendors: Optimize profitability by adjusting
-pricing, reducing operational costs, or offering bundled
-promotions.
-Low-performing vendors: Improve marketing efforts, optimize
-pricing strategies, and enhance distribution networks.
+Top-performing vendors: Optimize profitability by adjusting pricing, reducing operational costs, or offering bundled promotions.
+
+Low-performing vendors: Improve marketing efforts, optimize pricing strategies, and enhance distribution networks.
 
