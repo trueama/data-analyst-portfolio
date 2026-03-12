@@ -5,6 +5,8 @@ My goal is to help companies optimize their supply chains and maximize gross pro
 
 SQL & Python Project: In this analysis, I ingested data into the database, filtered out inconsistent data such as transactions with zero sales or negative profit margins by utilizing a full SQL & Python ETL pipeline and conducted advanced statistical modeling to move from raw data to descriptive analytics and prescriptive strategy. 
 
+<img width="1165" height="734" alt="Screenshot (366)" src="https://github.com/user-attachments/assets/f2c3d1d1-5392-4c31-a463-07018d0e2219" />
+
 # Correlation Insights
 <img width="1123" height="782" alt="Screenshot (362)" src="https://github.com/user-attachments/assets/4b2d540f-f4a4-4075-b82e-eaf838f2abe9" />
 
